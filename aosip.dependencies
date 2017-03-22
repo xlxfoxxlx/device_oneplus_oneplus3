@@ -1,7 +1,8 @@
 [
  {
-   "repository" : "Meninblack007/android_device_oppo_common",
-   "target_path": "device/oppo/common"
+   "repository" : "DirtyUnicorns/android_device_oppo_common",
+   "target_path": "device/oppo/common",
+   "branch"     : "n7x-caf"
  },
  {
    "repository" : "Dabug123/KronicCore-OP3-Unified",
@@ -29,9 +30,9 @@
    "branch"     : "cm-14.1-caf-8996"
  },
  {
-   "repository" : "TheMuppets/proprietary_vendor_qcom_binaries",
+   "repository" : "DirtyUnicorns/android_vendor_qcom_binaries",
    "target_path": "vendor/qcom/binaries",
-   "branch"     : "cm-14.1"
+   "branch"     : "n7x-caf"
  },
  {
    "repository" : "LineageOS/android_packages_resources_devicesettings",
@@ -39,9 +40,9 @@
    "branch"     : "cm-14.1"
  },
  {
-   "repository" : "DirtyUnicorns/android_vendor_oneplus",
+   "repository" : "Dabug123/vendor_oneplus",
    "target_path": "vendor/oneplus",
-   "branch"     : "n7x-caf"
+   "branch"     : "n-mr1"
  },
  { 
    "repository" : "AOSiP-Devices/aarch64-linux-android-4.9",
