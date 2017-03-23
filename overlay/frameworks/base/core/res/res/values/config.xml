@@ -424,4 +424,8 @@
     <integer name="config_notificationsBatteryMediumARGB">0xFF0000FF</integer>
 
     <bool name="config_fingerprintRemoveClientOnCancel">true</bool>
+
+    <!-- Whether device has dash charging support -->
+    <bool name="config_hasDashCharger">true</bool>
+
 </resources>
