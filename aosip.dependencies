@@ -27,7 +27,7 @@
  {
    "repository" : "platform_hardware_qcom_display",
    "target_path": "hardware/qcom/display-caf/msm8996",
-   "branch"     : "cm-14.1-caf-8996"
+   "branch"     : "test"
  },
  {
    "repository" : "DirtyUnicorns/android_vendor_qcom_binaries",
