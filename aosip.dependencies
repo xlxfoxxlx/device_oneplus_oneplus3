@@ -7,7 +7,7 @@
  {
    "repository" : "Dabug123/KronicCore-OP3-Unified",
    "target_path": "kernel/oneplus/msm8996",
-   "branch"     : "n7x-caf"
+   "branch"     : "nougat"
  },
  {
    "repository" : "LineageOS/android_hardware_cyanogen",
