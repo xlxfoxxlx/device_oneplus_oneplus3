@@ -1,6 +1,6 @@
 [
  {
-   "repository" : "DirtyUnicorns/android_device_oppo_common",
+   "repository" : "Shreeesha/android_device_oppo_common",
    "target_path": "device/oppo/common",
    "branch"     : "n7x-caf"
  },
