@@ -1,8 +1,7 @@
 [
  {
-   "repository" : "Shreeesha/android_device_oppo_common",
-   "target_path": "device/oppo/common",
-   "branch"     : "n7x-caf"
+   "repository" : "AOSiP-Devices/device_oppo_common",
+   "target_path": "device/oppo/common"
  },
  {
    "repository" : "Dabug123/KronicCore-OP3-Unified",
@@ -20,9 +19,8 @@
    "branch"     : "cm-14.1"
  },
  {
-   "repository" : "TheMuppets/proprietary_vendor_oneplus",
-   "target_path": "vendor/oneplus",
-   "branch"     : "cm-14.1"
+   "repository" : "AOSiP-Devices/platform_vendor_oneplus",
+   "target_path": "vendor/oneplus"
  },
  { 
    "repository" : "AOSiP-Devices/aarch64-linux-android-4.9",
