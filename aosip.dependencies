@@ -4,9 +4,9 @@
    "target_path": "device/oppo/common"
  },
  {
-   "repository" : "Dabug123/KronicCore-OP3-Unified",
+   "repository" : "RandomDerps/op3",
    "target_path": "kernel/oneplus/msm8996",
-   "branch"     : "kronic"
+   "branch"     : "nougat"
  },
  {
    "repository" : "LineageOS/android_hardware_cyanogen",
@@ -21,9 +21,5 @@
  {
    "repository" : "AOSiP-Devices/platform_vendor_oneplus",
    "target_path": "vendor/oneplus"
- },
- { 
-   "repository" : "AOSiP-Devices/aarch64-linux-android-4.9",
-   "target_path": "prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9-kernel"
  }
 ]
