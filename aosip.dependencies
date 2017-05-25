@@ -1,0 +1,22 @@
+[
+ {
+   "repository" : "device_oppo_common",
+   "target_path": "device/oppo/common"
+ },
+ {
+   "repository" : "kernel_oneplus_msm8996",
+   "target_path": "kernel/oneplus/msm8996"
+ },
+ {
+   "repository" : "hardware_cyanogen",
+   "target_path": "hardware/cyanogen"
+ },
+ {
+   "repository" : "packages_resources_devicesettings",
+   "target_path": "packages/resources/devicesettings"
+ },
+ {
+   "repository" : "platform_vendor_oneplus",
+   "target_path": "vendor/oneplus"
+ }
+]
